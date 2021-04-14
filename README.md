@@ -16,13 +16,20 @@ Algunas cosas que **actualmente** me encuentro aprendiendo:
 Si llegaste acá pero ya te aburriste de mi lado nerdy, algunos de mis hobbies son jugar al ⚽, hacer trekking en montaña cuando estoy en el sur (me crié en Bariloche) ⛰️ y sacar fotos 📸. 
 
 
-#  Reach out!
+# Stats 📊
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejoacostaa&&exclude_repo=OO1-2017&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Alejos's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoacostaa&count_private=true&show_icons=true&theme=radical)
+
+#  Reach out! ✉️
 
 📸 Instagram: @alejoacostaa  
 
 🎤 Twitter: @aalejoacostaa
 
 📧 E-Mail: alejo.acostaa@hotmail.com
+
+
 
 <!--
 **alejoacostaa/alejoacostaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
