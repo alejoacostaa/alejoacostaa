@@ -1,4 +1,4 @@
-# Hello there, stranger ! 👋
+# Hello there, stranger !  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 Soy Alejo, actualmente estudio Licenciatura en Informática y particularmente me interesa el desarrollo nativo mobile para iOS con Swift/SwiftUI.
 
@@ -22,6 +22,8 @@ Si llegaste acá pero ya te aburriste de mi lado nerdy, algunos de mis hobbies s
 ![Alejos's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoacostaa&count_private=true&show_icons=true&theme=radical)
 
 #  Reach out! ✉️
+
+
 
 📸 Instagram: @alejoacostaa  
 
